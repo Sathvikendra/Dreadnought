@@ -1,7 +1,7 @@
 import cv2
 
 # Input video file
-input_file = "C:\Users\sathv\Downloads\input_video.mp4"
+input_file = 'input_video.mp4'
 
 # Output video file
 output_file = 'output_video.mp4'
